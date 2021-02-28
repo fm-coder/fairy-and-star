@@ -17,7 +17,7 @@ function preload()
 }
 
 function setup() {
-	createCanvas(800, 700);
+	createCanvas(200, 700);
 
 	// fairyVoice.play();
 
